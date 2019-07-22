@@ -18,10 +18,10 @@ organizations:
   url: "http://pondokprogrammer.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fiqhud din, islamic economy, business & management, psychology, education, languages and computer science.
+bio: My research interests include _fiqhud din_, islamic economy, business & management, psychology, education, languages and computer science.
 
 interests:
-- Fiqhud din 
+- _Fiqhud din_ 
 - Business
 - Programming
 
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Rifqi HLE is a student at Pondok Programmer. His research interests include fiqhud din, islamic economy, business & management, psychology, education, languages and computer science
+Rifqi HLE is a student at Pondok Programmer. His research interests include _fiqhud din_, islamic economy, business & management, psychology, education, languages and computer science
