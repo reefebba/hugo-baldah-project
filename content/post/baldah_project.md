@@ -3,7 +3,7 @@
 
 title: "Baldah Project"
 subtitle: "Masjid, BMT, Guild"
-summary: ""
+summary: "Berjamaah membangun negeri"
 authors: [admin]
 tags: [baldah-project]
 categories: [baldah-project]
@@ -11,12 +11,13 @@ date: 2019-07-22T09:13:13+07:00
 lastmod: 2019-07-22T09:13:13+07:00
 featured: true
 draft: false
+diagram: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "world economic forum for syaria economics"
+  caption: "world economic forum for sharia economics"
   focal_point: "Smart"
   preview_only: false
 
@@ -45,6 +46,17 @@ Sistem ini bukan dari dan untuk organisasi atau instansi tertentu melainkan amal
 Baldah adalah kampung, kecamatan, kota, provinsi manapun yang ingin menerapkan sistem ini, independen dijalankan oleh muslimin setempat yang juga menginginkan agar kebaikannya dicontoh oleh saudaranya di tempat lain sehingga kalimat Allah - lah yang paling tinggi
 
 Dari pembaca yang terhormat, yang memiliki kapasitas pada bidangnya sudi kiranya mengingatkan kami dari praktik kedzhaliman, pelanggaran syariat, yang ada pada rancangan sistem ini yang ingin kami terapkan dan sebar luaskan untuk kaum muslimin
+
+{{< diagram width="1000px">}}
+graph LR;
+    A[BMT] -->|mendanai operasional dan pembangunan| B(Masjid)
+    A -->|mendanai operasional dan pembangunan| C{Guild}
+    C -->|bagi hasil dengan| A
+    D[Jamaah Setempat] -->|menabung, berinfaq dan investasi ke| A
+    D -->|Beribadah, belajar dan memakmurkan| B
+    B -->|Melayani dan tanggap akan kebutuhan| D
+    D -->|Berkolaborasi:mentoring, berkarya, bekerjasama| C
+{{< /diagram >}}
 
 ## **Masjid**
 Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
