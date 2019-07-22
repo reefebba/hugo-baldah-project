@@ -16,8 +16,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "world economic forum for syaria economics"
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
@@ -46,7 +46,7 @@ Baldah adalah kampung, kecamatan, kota, provinsi manapun yang ingin menerapkan s
 
 Dari pembaca yang terhormat, yang memiliki kapasitas pada bidangnya sudi kiranya mengingatkan kami dari praktik kedzhaliman, pelanggaran syariat, yang ada pada rancangan sistem ini yang ingin kami terapkan dan sebar luaskan untuk kaum muslimin
 
-## Masjid
+## **Masjid**
 Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
 
 * ### Kepengurusan
@@ -67,7 +67,7 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
 * ### Ta'lim
 
     * #### Kuttaab: Anak-anak | SD
-    
+
         * Dasar - dasar keimanan
         * Adab & akhlaq
         * Membaca dan menghafal Al-Quran
@@ -92,9 +92,12 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
 * ### Credit
     * [Konferensi Masjid Indonesia](https://konferensimasjid.com/2018/12/15/9-langkah-membangun-masjid-berdaya/)
     * [FB Rendy Saputra](https://m.facebook.com/story.php?story_fbid=2165387087078864&id=100008227817040)
-## BMT
+
+## **BMT**
 Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzhaliman, riba dan gharar yang diharamkan
+
 * ### Kepengurusan
+
     * milik umat muslim setempat
     * majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
     * memiliki kepengurusan yang profesional sebagai executive
@@ -118,8 +121,10 @@ Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzha
     * [define economics](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics)
     * [golden balance](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1991-golden-balance-financing-the-needy)
     * [riba dan solusi](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1847-3-in-1-solusi-bebas-riba)
-## Guild
+
+## **Guild**
 Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pasar
+
 * milik umat muslim setempat
 * majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
 * memiliki kepengurusan yang profesional sebagai executive
@@ -145,7 +150,9 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
     * Menginisialisasi gerakan-gerakan untuk memajukan ekonomi ummat dan memerangi penjajah, cth: syirkah seluruh jama'ah masjid tanpa terkecuali dalam market swalayan modern local
     * Hisbah
     * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas
+
 ## Ta'aawun alal birr wat taqwaa
+
 * Agar ibroh dari usaha penerapan ini dapat diambil oleh saudara muslim di tempat lain maka perlu di buat media komunikasi, untuk: 
    * merekam jejak / progress
    * penyesuaian di lapangan, cth: karena belum memiliki izin untuk menjadi lembaga amil zakat, maka BMT tidak perlu menyimpan dana jama'ah, seluruh jama'ah cukup datang dengan info zakatnya dulu, BMT kemudian mengarahkan A memberikan B sekian, C sekian, berdasarkan data mustahiq zakat dari Masjid agar tetap rata dan menyeluruh.
@@ -156,7 +163,9 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
    * untuk ta'aawun alal birr wat taqwaa, cth: aliansi masjid se-kecamatan, se-kota, se-provinsi, se-negara
    * agar aliansi BMT bisa mengalahkan jaringan ribawi dan memberikan pelayanan yang tidak kalah dengan bank dan platform fintech lainnya
    * guild bisa terus berkolaborasi dan berbagi resource untuk kemajuan ummat dalam berbagai bidang keilmuan dan lini kehidupan
+
 * ### Berdaya dalam teknologi
+
 * Open-source: mudahnya, yang source code programnya dipublish, biasanya menerima kontribusi dari siapapun dalam bentuk kritik, saran, memperbaiki dan mengembangkan source code programnya, bisa dikembangkan sendiri dan digunakan untuk komersil mengacu pada yang didefinisikan dalam lisensi
 * Platform yang menggantikan atau menggabungkan fungsionalitas: Facebook, Instagram, Medium, Github
    * Sebutlah untuk sekarang namanya "project-book"  

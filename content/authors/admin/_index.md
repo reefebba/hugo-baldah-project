@@ -18,7 +18,7 @@ organizations:
   url: "http://pondokprogrammer.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include fiqhud din, islamic economy, business & management, psychology, education, languages and computer science.
 
 interests:
 - Fiqhud din 
