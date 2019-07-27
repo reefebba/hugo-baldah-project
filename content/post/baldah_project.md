@@ -111,6 +111,10 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
 * ### Credit
     * [Konferensi Masjid Indonesia](https://konferensimasjid.com/2018/12/15/9-langkah-membangun-masjid-berdaya/)
     * [FB Rendy Saputra](https://m.facebook.com/story.php?story_fbid=2165387087078864&id=100008227817040)
+    * [Sekilas Kuttab](https://www.youtube.com/watch?v=KY4NT2tmqz0)
+    * [Profile Kuttab Al-fatih](https://www.youtube.com/watch?v=Uw8D1S8czKM)
+    * [Rumah Belajar Ibnu Abbas](https://rumahbelajaribnuabbas.wordpress.com/about/)
+    * [Ideologi pendidikan kita](https://rumahbelajaribnuabbas.wordpress.com/2008/03/22/ideologi-pendidikan-kita/)
 
 ## **BMT**
 Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzhaliman, riba dan gharar yang diharamkan
@@ -126,12 +130,13 @@ Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzha
     * Menerima zakat agniyaa' muslimin untuk mustahiq setempat terlebih dahulu, manage sesuai ketentuan syariat
     * Menerima hibah dan wakaf dan menyalurkannya dengan bijak dan produktif.
 
-* ### Bank, Asuransi Syariah | Tamwiil
+* ### Bank, Reksadana, Asuransi(Takaful) | Tamwiil
     * Memilah nasabah yang ingin:
          * hanya menyimpan uang, aqd qardh, BMT berhak mengolah dana tersebut yang keuntungannya 100% milik BMT, dan tidak memberi nasabah keuntungan apapun, kecuali mengembalikannya ketika diminta/ditarik
-         * berinvestasi, _aqd mudhoorobah_, BMT hanya menerima dari dan membagi hasil untung dan rugi ke nasabah yang uangnya benar-benar tersalurkan ke usaha riil milik BMT, cth: guild, dan jika usaha tsb bukan milik BMT maka BMT hanya menjadi wakil dan tidak mengambil keuntungan apapun
+         * berinvestasi, _aqd mudhoorobah_, BMT hanya menerima dari dan membagi hasil (untung dan rugi) ke nasabah yang uangnya benar-benar tersalurkan ke usaha riil milik BMT, cth: guild, dan jika usaha tsb bukan milik BMT maka BMT hanya menjadi wakil dan mengambil upah wakil atau tidak mengambil keuntungan apapun
 
     * Solusi sesuai syariah, mengikuti arahan ulama' untuk hajat dan maslahat muslimin
+    * Beradaptasi dengan zaman (fintech, cashless, blockchain)
     * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas
 
 * ### Credit
@@ -142,6 +147,8 @@ Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzha
     * [define economics](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics)
     * [golden balance](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1991-golden-balance-financing-the-needy)
     * [riba dan solusi](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1847-3-in-1-solusi-bebas-riba)
+    * [sekilas syirkah](https://pengusahamuslim.com/115-syirkah-dan-hukumhukumnya-kerjasama-permodalan.html)
+    * [sekilas mudharabah](https://pengusahamuslim.com/117-sistem-mudharabah-investasi-dan-hukumhukumnya.html)
 
 ## **Guild**
 Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pasar
@@ -151,8 +158,9 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
 * memiliki kepengurusan yang profesional sebagai executive
 * Pendanaan dari BMT (initialisasi, _mudhoorobah_, syirkah)
 * Pendanaan mandiri
+* Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas
 
-* ### Pendidikan
+* ### Pendidikan dan Pelatihan Skill
    * Tipe Praktis
       * Menjembatani apprentice dengan mentor/master [TED Talk](https://www.youtube.com/watch?v=TUnpSYMNEhY&list=LL21gBUnaz91INs3DqSm9zmg&index=31&t=0s)
       * Pusat Training skills sesuai kebutuhan pasar, cth: [pondok it](https://www.pondokit.com/)
@@ -166,13 +174,18 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
       * Men-sinergi-kan penelitian dengan pasar
 
 * ### Pasar
+    * [Ringkasan fiqh jual-beli](https://pengusahamuslim.com/73-hukum-jual-beli-jual-beli-yang-diharamkan.html)
     * [guild](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1837-naqabah)
     * [capital shifts in industry 4.0](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2002-capital-shifts-in-industry-4-0)
     * [Hijrah Peradaban](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1995-hijrah-peradaban)
     * [Syirkah "orang2 miskin"](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2003-syirkah-orang-orang-miskin)
     * Menginisialisasi gerakan-gerakan untuk memajukan ekonomi ummat dan memerangi penjajah, cth: syirkah seluruh jama'ah masjid tanpa terkecuali dalam market swalayan modern local
     * Hisbah
-    * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas
+    
+* ### Produksi
+    * Inisialisasi: 
+        * industri kebutuhan sehari-hari
+        * industri besar (distributed), jika perlu
 
 ## Ta'aawun alal birr wat taqwaa
 
@@ -191,6 +204,7 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
 * ### Berdaya dalam teknologi
 
 * Open-source: mudahnya, yang source code programnya dipublish, biasanya menerima kontribusi dari siapapun dalam bentuk kritik, saran, memperbaiki dan mengembangkan source code programnya, bisa dikembangkan sendiri dan digunakan untuk komersil mengacu pada yang didefinisikan dalam lisensi
+* Platform untuk memudahkan _management_ Masjid, BMT dan Guild (distributed) dan bisa di-integrasikan
 * Platform yang menggantikan atau menggabungkan fungsionalitas: Facebook, Instagram, Medium, Github
    * Sebutlah untuk sekarang namanya "project-book"  
    * User tidak membuat status melainkan project.
@@ -212,6 +226,13 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
    * Ketika ekonomi ummat sejahtera bertransaksi lebih dari sekedar jual beli namun ada nilai ibadah, dakwah dan ukhuwwah disana
    * User mencari barang yang dibutuhkan dari pelapak sekitar lingkungannya: jama'ah masjidnya, jika tidak ditemukan naik ke aliansi ditingkat berikutnya dst.
 
+* Platform database account user:
+    * Sebutlah untuk sekarang namanya "Open Book"
+    * Sebagai Pusat penyimpanan seluruh data pribadi user
+    * Diakses oleh platform-platform baldah-project(OAuth2) tanpa menyimpannya
+    * Berasaskan transparency meminta persetujuan user untuk tiap data yang boleh di-_consume_ oleh platform lain(baldah-project ataupun selainnya) tanpa menyimpannya
+
+<!-- ?* e-cashflow teacher ? -->
 * Mendukung semua Platform dari ummat yang bertujuan mashlahat lebih besar dan inkaar produk ribawi
 
 {{< diagram width="1000px">}}
