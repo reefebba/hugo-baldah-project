@@ -26,6 +26,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+# Todo: Ubah jadi todo list [x]
 ---
 Yang bisa dilakukan 6 bulan kedepan:
 ## **Masjid**

@@ -31,6 +31,8 @@ hero_media = "evangeline-shaw-Y2xy8_3_9fc-unsplash.jpg"
   text_color_light = true
 
 +++
+بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
+
 *Together we practice sharia, together we build...*
 
 ## **Masjid**

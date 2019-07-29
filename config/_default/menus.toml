@@ -39,3 +39,8 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+
+#[[main]]
+#  name = "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم"
+#  url = ""
+#  weight = 80
