@@ -27,6 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+# graph LR; before TD, sequenceDiagram, gantt
 ---
 ## Muqoddimah
 الـحَمْدُ للهِ وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُوْلِ اللهِ وَعَلَى آلِهِ وَصَحْبِهِ وَمَنْ وَالَاهَ ، أَمَّا بَعْدُ
@@ -47,8 +48,8 @@ Baldah adalah kampung, kecamatan, kota, provinsi manapun yang ingin menerapkan s
 
 Dari pembaca yang terhormat, yang memiliki kapasitas pada bidangnya sudi kiranya mengingatkan kami dari praktik kedzhaliman, pelanggaran syariat, yang ada pada rancangan sistem ini yang ingin kami terapkan dan sebar luaskan untuk kaum muslimin
 
-{{< diagram width="1000px">}}
-graph LR;
+{{< diagram >}}
+graph TD;
     A[BMT] -->|mendanai operasional dan pembangunan| B(Masjid)
     A -->|mendanai operasional dan pembangunan| C{Guild}
     C -->|bagi hasil dengan| A
@@ -141,14 +142,15 @@ Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzha
 
 * ### Credit
     * [mencari solusi bank syari'ah](https://almanhaj.or.id/2599-mencari-solusi-bank-syariah.html)
-    * [bmt](https://www.hestanto.web.id/bmt/)
-    * [market share syari'ah](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1492-market-share-syariah)
-    * [uang yg mengusir pemiliknya](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1869-uang-yang-mengusir-pemiliknya)
-    * [define economics](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics)
-    * [golden balance](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1991-golden-balance-financing-the-needy)
-    * [riba dan solusi](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1847-3-in-1-solusi-bebas-riba)
+    * [reksadana syari'ah](https://pengusahamuslim.com/5256-reksadana-syariah-dalam-sorotan.html)
     * [sekilas syirkah](https://pengusahamuslim.com/115-syirkah-dan-hukumhukumnya-kerjasama-permodalan.html)
     * [sekilas mudharabah](https://pengusahamuslim.com/117-sistem-mudharabah-investasi-dan-hukumhukumnya.html)
+    * [market share syari'ah](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1492-market-share-syariah)
+    * [define economics](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics)
+    * [golden balance financing the needy](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1991-golden-balance-financing-the-needy)
+    * [uang yg mengusir pemiliknya](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1869-uang-yang-mengusir-pemiliknya)
+    * [3 in 1 solusi bebas riba](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1847-3-in-1-solusi-bebas-riba)
+    * [bmt](https://www.hestanto.web.id/bmt/)
 
 ## **Guild**
 Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pasar
@@ -186,6 +188,8 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
     * Inisialisasi: 
         * industri kebutuhan sehari-hari
         * industri besar (distributed), jika perlu
+    * Franchise/Waralaba
+        * [Catatan fiqh untuk Franchise](https://konsultasisyariah.com/12303-hukum-bisnis-franchise-waralaba.html)
 
 ## Ta'aawun alal birr wat taqwaa
 
@@ -235,8 +239,8 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
 <!-- ?* e-cashflow teacher ? -->
 * Mendukung semua Platform dari ummat yang bertujuan mashlahat lebih besar dan inkaar produk ribawi
 
-{{< diagram width="1000px">}}
-graph LR;
+{{< diagram >}}
+graph TD;
     A[Baldah Project desa] -->|Berkolaborasi:support, mentoring, berkarya, bekerjasama| B{Baldah Project kecamatan}
     C(Baldah Project desa tetangga) -->|Berkolaborasi:support, mentoring, berkarya, bekerjasama| B
     B -->|dan begitu seterusnya| D[Aliansi yang lebih luas]
