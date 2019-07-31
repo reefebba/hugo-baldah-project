@@ -105,7 +105,7 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
         * ibadahnya: sholat di masjid, bayar zakat, shoum, haji, qurban dll
         * kesejahteraannya: fakir, miskin, kaya, janda, yatim, terlilit hutang,
         * kebutuhannya dibantu penuhi: shodaqoh, zakat, pekerjaan, dipersaudarakan, dicarikan kaafil, dsb
-
+    * Pelayanan kesehatan dari infaq dan wakaf, cth: [Bymaristan](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1803-bymaristan)
     * Hal lain yang dibutuhkan ummat
     * Pendanaan dari BMT
 
@@ -168,6 +168,8 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
       * Pusat Training skills sesuai kebutuhan pasar, cth: [pondok it](https://www.pondokit.com/)
       * Fokus
       * Waktu training yang relatif singkat
+      * Pengalaman kerja riil
+      * Bisa membangun bakal bisnis sendiri
 
    * Tipe Research and Development
       * Membuka kesempatan explore berbagai disiplin keilmuan, [TED Talk, Quest University Canada](https://www.youtube.com/watch?v=DZQe73IXZtU&list=LL21gBUnaz91INs3DqSm9zmg&index=28&t=0s)
@@ -185,6 +187,10 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
     * Hisbah
     
 * ### Produksi
+    * Swasembada pangan, kerajinan, dll:
+        * pertanian
+        * peternakan
+        * dengan _risk management_ yang baik, cth:[zakah for no poverty and zero hunger](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2016-zakah-for-no-poverty-and-zero-hunger-in-sdg-s)
     * Inisialisasi: 
         * industri kebutuhan sehari-hari
         * industri besar (distributed), jika perlu
@@ -204,6 +210,8 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
    * untuk ta'aawun alal birr wat taqwaa, cth: aliansi masjid se-kecamatan, se-kota, se-provinsi, se-negara
    * agar aliansi BMT bisa mengalahkan jaringan ribawi dan memberikan pelayanan yang tidak kalah dengan bank dan platform fintech lainnya
    * guild bisa terus berkolaborasi dan berbagi resource untuk kemajuan ummat dalam berbagai bidang keilmuan dan lini kehidupan
+
+* Aliansi ini bila perlu berbentuk syirkah 'inan / syirkah mufawadhah.
 
 * ### Berdaya dalam teknologi
 
@@ -247,7 +255,7 @@ graph TD;
 {{< /diagram >}}
 
 ## Penutup
-Dari pemaparan singkat diatas, dan rancangan yang jauh dari sempurna ini kami berharap untuk diajarkan dan diingatkan dari praktik kedzhaliman, pelanggaran syariat, serta kritk dan saran ke email: project.baldah@gmail.com 
+Dari pemaparan singkat diatas, dan rancangan yang jauh dari sempurna ini kami berharap untuk diajarkan dan diingatkan dari praktik kedzhaliman, pelanggaran syariat, serta kritk dan saran ke email: **project.baldah@gmail.com** 
 
 Kami berharap Allah berikan ummat taufiq untuk menerapkannya jika memang ada baiknya untuk diin, dunya, dan akhirat.
 Kami memohon kepada Allah agar menunjuki kami dan ummat kebenaran dan memberi kami dan ummat rezeki untuk mengikutinya.
