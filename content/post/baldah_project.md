@@ -64,11 +64,11 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
 
 * ### Kepengurusan
 
-    * memiliki kepengurusan yang komitmen dan fokus
-    * majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
-    * pengurus dengan organisasi profesional sesuai kebutuhan
-    * pengurus berusaha semaksimal mungkin melayani ummat
-    * pengurus mendapat tunjangan dari BMT
+    * Memiliki kepengurusan yang komitmen dan fokus
+    * Majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
+    * Pengurus dengan organisasi profesional sesuai kebutuhan
+    * Pengurus berusaha semaksimal mungkin melayani ummat
+    * Pengurus mendapat tunjangan dari BMT
 
 * ### Ibadah
     * Tegak sholat 5 waktu
@@ -91,7 +91,7 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
         * Dasar ibadah praktis
         * Science dan seni sesuai minat anak setelah mencoba berbagai disiplin terlebih dahulu
 
-    * #### Madrasah / majlis | Umum
+    * #### Madrasah / Majlis | Umum
         * Majlis Aqidah, Adab, Quran, Hadits, Fiqh, Siroh, B. Arab rutin sistematis
         * Dauroh maudhuu'iyyah berkala seperti: workshop fiqh zakat dalam 2 hari, dsb dengan target jamaah berbeda
 
@@ -101,11 +101,11 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
     * Pengajar mendapat tunjangan dari BMT
 
 * ### Khidmah Umat
-    * mendata jama'ah yang berada dalam lingkupnya:
+    * Mendata jama'ah yang berada dalam lingkupnya:
         * ibadahnya: sholat di masjid, bayar zakat, shoum, haji, qurban dll
         * kesejahteraannya: fakir, miskin, kaya, janda, yatim, terlilit hutang,
         * kebutuhannya dibantu penuhi: shodaqoh, zakat, pekerjaan, dipersaudarakan, dicarikan kaafil, dsb
-    * Pelayanan kesehatan dari infaq dan wakaf, cth: [Bymaristan](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1803-bymaristan)
+    
     * Hal lain yang dibutuhkan ummat
     * Pendanaan dari BMT
 
@@ -118,56 +118,56 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
     * [Ideologi pendidikan kita](https://rumahbelajaribnuabbas.wordpress.com/2008/03/22/ideologi-pendidikan-kita/)
 
 ## **BMT**
-Instrumen penting untuk hijrah ke pembiayaan syar'i dan memerangi praktik kedzhaliman, riba dan gharar yang diharamkan
+[BMT](https://www.hestanto.web.id/bmt/) sebagai instrumen penting dalam memudahkan pelaksanaan ibadah berkenaan dengan harta, serta jalan  hijrah ke pembiayaan syar'i dan untuk memerangi praktik kedzhaliman, riba dan gharar yang diharamkan
 
 * ### Kepengurusan
-    * milik umat muslim setempat
-    * majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
-    * memiliki kepengurusan yang profesional sebagai executive
+    * Milik umat muslim setempat
+    * Majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
+    * Memiliki kepengurusan yang profesional sebagai executive
 
 * ### LAZIS | Maal
     * Menerima Shodaqoh yang digunakan utamanya untuk mashlahat muslimin setempat, cth: operasional masjid, dipinjamkan bagi yang membutuhkan dari muslimin
     * Menerima Infaq tertentu, cth: infaq pembangunan masjid, infaq mukafa'ah ustadz, infaq buka puasa, dll
     * Menerima zakat agniyaa' muslimin untuk mustahiq setempat terlebih dahulu, manage sesuai ketentuan syariat
-    * Menerima hibah dan wakaf dan menyalurkannya dengan bijak dan produktif.
+    * Menerima hibah dan wakaf dan menyalurkannya dengan bijak dan produktif, cth:[sustainable financing](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/1473-sustainable-financing-untuk-tahun-tahun-depan-yang-lebih-baik)
 
 * ### Bank, Reksadana, Asuransi(Takaful) | Tamwiil
+    * [Sekilas syirkah](https://pengusahamuslim.com/115-syirkah-dan-hukumhukumnya-kerjasama-permodalan.html)
+    * [Sekilas mudharabah](https://pengusahamuslim.com/117-sistem-mudharabah-investasi-dan-hukumhukumnya.html)
     * Memilah nasabah yang ingin:
          * hanya menyimpan uang, aqd qardh, BMT berhak mengolah dana tersebut yang keuntungannya 100% milik BMT, dan tidak memberi nasabah keuntungan apapun, kecuali mengembalikannya ketika diminta/ditarik
          * berinvestasi, _aqd mudhoorobah_, BMT hanya menerima dari dan membagi hasil (untung dan rugi) ke nasabah yang uangnya benar-benar tersalurkan ke usaha riil milik BMT, cth: guild, dan jika usaha tsb bukan milik BMT maka BMT hanya menjadi wakil dan mengambil upah wakil atau tidak mengambil keuntungan apapun
-
+         * taawun/takaful, BMT bertindak sebagai wakil dalam pengelolaan dana
+         * menabung dinar dan dirham, cth: [untuk biaya haji](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/780-alhamdulillah-ongkos-naik-haji-turun)
     * Solusi sesuai syariah, mengikuti arahan ulama' untuk hajat dan maslahat muslimin
     * Beradaptasi dengan zaman (fintech, cashless, blockchain)
     * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas
 
 * ### Credit
     * [mencari solusi bank syari'ah](https://almanhaj.or.id/2599-mencari-solusi-bank-syariah.html)
-    * [reksadana syari'ah](https://pengusahamuslim.com/5256-reksadana-syariah-dalam-sorotan.html)
-    * [sekilas syirkah](https://pengusahamuslim.com/115-syirkah-dan-hukumhukumnya-kerjasama-permodalan.html)
-    * [sekilas mudharabah](https://pengusahamuslim.com/117-sistem-mudharabah-investasi-dan-hukumhukumnya.html)
+    * [reksadana syari'ah](https://pengusahamuslim.com/5256-reksadana-syariah-dalam-sorotan.html) 
     * [market share syari'ah](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1492-market-share-syariah)
     * [define economics](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics)
-    * [golden balance financing the needy](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1991-golden-balance-financing-the-needy)
     * [uang yg mengusir pemiliknya](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1869-uang-yang-mengusir-pemiliknya)
     * [3 in 1 solusi bebas riba](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1847-3-in-1-solusi-bebas-riba)
-    * [bmt](https://www.hestanto.web.id/bmt/)
 
 ## **Guild**
-Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pasar
+Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1929-impact-economy) and efficient_ untuk menyiapkan dan mengolah resource manusia dan alam menyesuaikan pasar yang sehat
 
-* milik umat muslim setempat
-* majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
-* memiliki kepengurusan yang profesional sebagai executive
+* Milik umat muslim setempat
+* Majlis syura: perwakilan ummat, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan ummat
+* Memiliki kepengurusan yang profesional sebagai executive
 * Pendanaan dari BMT (initialisasi, _mudhoorobah_, syirkah)
 * Pendanaan mandiri
 * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas
+* [Capital shifts in industry 4.0](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2002-capital-shifts-in-industry-4-0)
+* [Hijrah Peradaban](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1995-hijrah-peradaban)
 
 * ### Pendidikan dan Pelatihan Skill
    * Tipe Praktis
       * Menjembatani apprentice dengan mentor/master [TED Talk](https://www.youtube.com/watch?v=TUnpSYMNEhY&list=LL21gBUnaz91INs3DqSm9zmg&index=31&t=0s)
       * Pusat Training skills sesuai kebutuhan pasar, cth: [pondok it](https://www.pondokit.com/)
-      * Fokus
-      * Waktu training yang relatif singkat
+      * Fokus sehingga waktu training relatif singkat
       * Pengalaman kerja riil
       * Bisa membangun bakal bisnis sendiri
 
@@ -178,24 +178,40 @@ Instrumen efisien menjembatani pendidikan, mentoring, gaya belajar modern dan pa
       * Men-sinergi-kan penelitian dengan pasar
 
 * ### Pasar
-    * [Ringkasan fiqh jual-beli](https://pengusahamuslim.com/73-hukum-jual-beli-jual-beli-yang-diharamkan.html)
-    * [guild](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1837-naqabah)
-    * [capital shifts in industry 4.0](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2002-capital-shifts-in-industry-4-0)
-    * [Hijrah Peradaban](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1995-hijrah-peradaban)
-    * [Syirkah "orang2 miskin"](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2003-syirkah-orang-orang-miskin)
+    * Mengkaji dan menerapkan syariat jual beli dalam kehidupan nyata sekarang. [Ringkasan fiqh jual-beli](https://pengusahamuslim.com/73-hukum-jual-beli-jual-beli-yang-diharamkan.html)
+    * Menggali praktek pengelolaan pasar di jaman Nabi Shollallahu ‘Alaihi Wasallam dan para sahabat, serta mengkaji penerapannya di jaman ini, cth:[Bazzar Madinah](http://www.geraidinar.com/index.php/artikel/81-gd-articles/entrepreneurship/656-bazaar-madinah-ayo-berdagang-dan-bersyariah)
+    * Edukasi dan pembinaan pada para pedagang dan masyarakat pada umumnya.
+    * Mengkaji dan menerapkan konsep Hisbah (lembaga pengawas pasar) dan Muhtasib (pengawas pasar).
+    * Mengidentifikasi barang-barang yang dibutuhkan masyarakat setempat dan mencari solusi pemenuhannya yang efektif.
+    * Mencari sumber-sumber produksi yang efisien atas barang-barang yang dibutuhkan masyarakat.
+    * Optimalisasi space dan facility untuk manfaat maksimal.
+    * Menjalin hubungan kelembagaan dengan instansi-instansi dan organisasi-organisasi yang kemungkinan akan ikut terkait dan dapat membantu pengembangan pasar kedepan.
+    * Identifikasi potensi sustainable growth dari pasar.
+    * Memanfaatkan _Suuq Baldah_ maupun platform lain dari internet untuk jangkauan yang lebih luas
     * Menginisialisasi gerakan-gerakan untuk memajukan ekonomi ummat dan memerangi penjajah, cth: syirkah seluruh jama'ah masjid tanpa terkecuali dalam market swalayan modern local
-    * Hisbah
     
-* ### Produksi
+* ### Produksi barang dan jasa
     * Swasembada pangan, kerajinan, dll:
-        * pertanian
+        * pertanian, [Materi Lengkap Islamic Agriculture](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1605-materi-lengkap-islamic-agriculture)
         * peternakan
+        * dengan pendanaan yg disyariatkan, cth:[bai salam bukan ijon](https://pengusahamuslim.com/1288-transaksi-ijon-dalam-pandangan-syariat.html)
         * dengan _risk management_ yang baik, cth:[zakah for no poverty and zero hunger](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2016-zakah-for-no-poverty-and-zero-hunger-in-sdg-s)
+
     * Inisialisasi: 
         * industri kebutuhan sehari-hari
         * industri besar (distributed), jika perlu
+        * [guild](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1837-naqabah)
+        * [syirkah "orang2 miskin"](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2003-syirkah-orang-orang-miskin)
+        * [wirausahawan muda](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/783-modal-usaha-jualan-cendol-senilai-rp-400-juta-siapa-mau) mandiri dengan [bootsrapping](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/83-gd-articles/investasi/784-indahnya-mulai-usaha-dengan-bootstrapping)
+
     * Franchise/Waralaba
         * [Catatan fiqh untuk Franchise](https://konsultasisyariah.com/12303-hukum-bisnis-franchise-waralaba.html)
+
+* ### Sosial
+    * Pelayanan kesehatan dari infaq dan wakaf, cth:
+        * [langkah awal Mobile Bymaristan](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1803-bymaristan) dan [gambaran besar Bymaristan](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1321-saya-bermimpi-lagi-obama-ke-jonggol)
+        * [golden balance financing the needy](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1991-golden-balance-financing-the-needy)
+    * [Baitul Hikma, TED](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/1119-rumah-hikmah-baitul-hikmah-the-house-of-wisdom)
 
 ## Ta'aawun alal birr wat taqwaa
 
