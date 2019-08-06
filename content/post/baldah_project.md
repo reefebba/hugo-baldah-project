@@ -42,6 +42,8 @@ Karena lemahnya iman, sedikitnya ilmu, terpecahnya-kekuatan, tanpa sistem yang m
 
 Kami yang fakir ini ingin berkontribusi (dengan keilmuan dan pengalaman kami yang terbatas) membangun ekosistem yang bersih untuk berhijrah dari kajahiliyahan, dan [sebagai bentuk perang terhadap kemungkaran yang karena lemahnya kita, sedang bergerak menjajah kita](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/1364-launching-tawaf-untuk-kebangkitan-umat)
 
+Sistem ini berasal dari telaah kami dari berbagai sumber(pikiran, tulisan, obrolan, kajian saudara-saudara kita), dengan inspirasi terbesar dari [geraidinar.com](http://www.geraidinar.com)
+
 Sistem ini bukan dari dan untuk organisasi atau instansi tertentu melainkan amal dan usaha berjama'ah untuk _iqoomatud diin_, menumbuhkan keimanan, menambah ilmu, mengangkat perekonomian dan melawan kemungkaran dan makar musuh-musuh Allah
 
 Baldah adalah kampung, kecamatan, kota, provinsi manapun yang ingin menerapkan sistem ini, independen dijalankan oleh muslimin setempat yang juga menginginkan agar kebaikannya dicontoh oleh saudaranya di tempat lain sehingga kalimat Allah - lah yang paling tinggi
@@ -148,12 +150,11 @@ Instrumen penting dalam memudahkan pelaksanaan ibadah berkenaan dengan harta, se
     * [mencari solusi bank syari'ah](https://almanhaj.or.id/2599-mencari-solusi-bank-syariah.html)
     * [reksadana syari'ah](https://pengusahamuslim.com/5256-reksadana-syariah-dalam-sorotan.html) 
     * [market share syari'ah](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1492-market-share-syariah)
-    * [define economics](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics)
+    * [antara kapitalisme, (penerapan) ekonomi syariah yang ada, ...](http://geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1147-antara-kapitalisme-ekonomi-syariah-1-0-dan-ekonomi-syariah-2-0)
     * [uang yg mengusir pemiliknya](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1869-uang-yang-mengusir-pemiliknya)
     * [3 in 1 solusi bebas riba](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1847-3-in-1-solusi-bebas-riba)
     * [invesment box](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/83-gd-articles/investasi/648-investment-box-dimana-penempatan-investasi-anda)
     * [negri tanpa hutang](http://www.geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1193-negeri-tanpa-hutang)
-    * [antara kapitalisme, (penerapan) ekonomi syariah yang ada, ...](http://geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1147-antara-kapitalisme-ekonomi-syariah-1-0-dan-ekonomi-syariah-2-0)
 
 ## **Guild**
 Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1929-impact-economy) and efficient_ untuk menyiapkan dan mengolah resource manusia dan alam menyesuaikan pasar yang sehat
@@ -183,9 +184,13 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
     
 * ### Produksi barang dan jasa
     * Inisialisasi: 
-        * industri kebutuhan sehari-hari untuk swasembada pangan, kerajinan, dll:
-            * pertanian, [Materi Lengkap Islamic Agriculture](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1605-materi-lengkap-islamic-agriculture)
-            * peternakan: kambing, sapi, kuda, ikan, dll
+        * industri [kecil](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/649-small-is-the-new-big) kebutuhan sehari-hari:
+            * [kebutuhan pokok](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics):
+                * [pertanian](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2007-ayat-ayat-petani), silahkan lihat [Materi Lengkap Islamic Agriculture](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1605-materi-lengkap-islamic-agriculture)
+                * peternakan: kambing, sapi, kuda, ikan, dll
+
+            * [wellness](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1748-welcome-to-wellness-industry), seperti: [parfume](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1755-indikator-peradaban) 
+            * kerajinan
             * dengan pendanaan yg disyariatkan, cth:[bai salam bukan ijon](https://pengusahamuslim.com/1288-transaksi-ijon-dalam-pandangan-syariat.html)
             * dengan _risk management_ yang baik, cth:[zakah for no poverty and zero hunger](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2016-zakah-for-no-poverty-and-zero-hunger-in-sdg-s)
 
