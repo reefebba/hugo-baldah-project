@@ -165,8 +165,7 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
 * Pendanaan dari BMT (initialisasi, _mudhoorobah_, syirkah)
 * Pendanaan mandiri
 * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas di bagian [Ta'awun](#ta-aawun-alal-birr-wat-taqwaa)
-* [Capital shifts in industry 4.0](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2002-capital-shifts-in-industry-4-0)
-* [Hijrah Peradaban](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1995-hijrah-peradaban)
+* Bersiap-siap untuk [Hijrah Peradaban](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1995-hijrah-peradaban) dan [Capital shifts in industry 4.0](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2002-capital-shifts-in-industry-4-0)
 
 * ### Pendidikan dan Pelatihan Skill
    * Tipe Praktis
