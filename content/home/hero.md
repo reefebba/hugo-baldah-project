@@ -40,4 +40,5 @@ hero_media = "evangeline-shaw-Y2xy8_3_9fc-unsplash.jpg"
 ## **Guild**
 ## **Project Book**
 ## **_Suuq Baldah_**
+## **Open Book**
 ## **_Al-Amtsilah_ Series**
