@@ -125,7 +125,7 @@ Instrumen penting dalam memudahkan pelaksanaan ibadah berkenaan dengan harta, se
 * ### Kepengurusan
     * Milik umat muslim setempat
     * Majlis syura: perwakilan _ummat_, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan _ummat_
-    * Memiliki kepengurusan yang profesional sebagai executive
+    * Memiliki kepengurusan yang profesional sebagai _executive_
 
 * ### LAZIS | Maal
     * Menerima Shodaqoh yang digunakan utamanya untuk mashlahat muslimin setempat, cth: operasional masjid, dipinjamkan bagi yang membutuhkan dari muslimin
@@ -161,7 +161,7 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
 
 * Milik umat muslim setempat
 * Majlis syura: perwakilan _ummat_, mengamati, memberi saran, mengkaji persoalan dan bila perlu meluruskan pengurus dan _ummat_
-* Memiliki kepengurusan yang profesional sebagai executive
+* Memiliki kepengurusan yang profesional sebagai _executive_
 * Pendanaan dari BMT (initialisasi, _mudhoorobah_, syirkah)
 * Pendanaan mandiri
 * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas di bagian [Ta'awun](#ta-aawun-alal-birr-wat-taqwaa)
@@ -248,8 +248,8 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
    * User tidak membuat status melainkan project.
    * Project ada yang public dan ada yang private untuk independent team
    * Dalam project user bisa membuat:
-      *  artikel specifikasi ide atau karyanya seperti Medium, 
-      *  story seperti fb dan ig yang merupakan dokumentasi aksinya sesuai artikel spec yang ia tulis
+      *  artikel tentang ide atau karyanya seperti Medium, 
+      *  story seperti fb dan ig yang merupakan dokumentasi aksinya sesuai artikel yang ia tulis
 
    * User bisa 
       * browse users dan projects dan follow users atau project
@@ -276,7 +276,7 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
     * Sebagai pusat penyimpanan data yang [reliable dan auditable](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1973-blockchain-may-save-life) untuk maslahat umum.
 
 <!-- ?* e-cashflow teacher ? -->
-* Mendukung semua Platform dari _ummat_ yang bertujuan mashlahat lebih besar dan inkaar produk ribawi
+* Mendukung semua Platform dari _ummat_ yang bertujuan mashlahat lebih besar dan _inkaar_ produk ribawi
 
 {{< diagram >}}
 graph TD;
