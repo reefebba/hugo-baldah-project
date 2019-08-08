@@ -165,7 +165,7 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
 * Pendanaan dari BMT (initialisasi, _mudhoorobah_, syirkah)
 * Pendanaan mandiri
 * Dimulai sebagai lembaga lokal, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas di bagian [Ta'awun](#ta-aawun-alal-birr-wat-taqwaa)
-* Bersiap-siap untuk [Hijrah Peradaban](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1995-hijrah-peradaban) dan [Capital shifts in industry 4.0](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2002-capital-shifts-in-industry-4-0)
+* Berinovasi dengan [Circular Economy](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1933-peluang-di-circular-economy) untuk [Hijrah Peradaban](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1995-hijrah-peradaban) dan [Capital shifts in industry 4.0](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2002-capital-shifts-in-industry-4-0)
 
 * ### Pendidikan dan Pelatihan Skill
    * Tipe Praktis
@@ -179,7 +179,10 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
       * Membuka kesempatan explore berbagai disiplin keilmuan, [TED Talk, Quest University Canada](https://www.youtube.com/watch?v=DZQe73IXZtU&list=LL21gBUnaz91INs3DqSm9zmg&index=28&t=0s)
       * Belajar mandiri memanfaatkan resources yang tersedia sesuai kebutuhan, cth: [Quantum physics roadmap](https://www.youtube.com/watch?v=RGD6KQ6bRS8&list=LL21gBUnaz91INs3DqSm9zmg&index=9&t=0s)
       * Menjembatani apprentice dengan mentor/master
-      * Men-sinergi-kan penelitian dengan pasar
+      * Men-sinergi-kan penelitian dengan pasar, cth:
+          * [visi nano](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1982-nano-farmer-a-vision-sharing)
+          * [garam/batu, wellness](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1924-ketika-perut-nabi-diganjal-batu)
+          * [rumah di negeri ring of fire](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1997-tinggal-di-negeri-ring-of-fire)
     
 * ### Produksi barang dan jasa
     * Inisialisasi: 
