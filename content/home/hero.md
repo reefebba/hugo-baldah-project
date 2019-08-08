@@ -35,10 +35,6 @@ hero_media = "evangeline-shaw-Y2xy8_3_9fc-unsplash.jpg"
 
 *Together we practice sharia, together we build...*
 
-## **Masjid**
-## **BMT**
-## **Guild**
-## **Project Book**
-## **_Suuq Baldah_**
-## **Open Book**
+## **Masjid, BMT, Guild**
+## **Project Book, _Suuq Baldah_, Open Book**
 ## **_Al-Amtsilah_ Series**
