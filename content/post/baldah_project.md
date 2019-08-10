@@ -130,7 +130,7 @@ Instrumen penting dalam memudahkan pelaksanaan ibadah berkenaan dengan harta, se
 * ### LAZIS | Maal
     * Menerima Shodaqoh yang digunakan utamanya untuk mashlahat muslimin setempat, cth: operasional masjid, dipinjamkan bagi yang membutuhkan dari muslimin
     * Menerima Infaq tertentu, cth: infaq pembangunan masjid, infaq mukafa'ah ustadz, infaq buka puasa, dll
-    * Menerima zakat agniyaa' muslimin untuk mustahiq setempat terlebih dahulu, manage sesuai ketentuan syariat
+    * Menerima zakat agniyaa' muslimin untuk mustahiq setempat terlebih dahulu, manage sesuai ketentuan syariat, cth: [Panitia bukan Amil](https://konsultasisyariah.com/29441-panitia-zakat-bukan-amil-zakat.html)
     * Menerima hibah dan wakaf dan menyalurkannya dengan bijak dan produktif, cth:[sustainable financing](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/1473-sustainable-financing-untuk-tahun-tahun-depan-yang-lebih-baik)
 
 * ### Bank, Reksadana, Asuransi(Ta'awun/Takaful) | Tamwiil
