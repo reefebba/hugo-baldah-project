@@ -148,6 +148,8 @@ Instrumen penting dalam memudahkan pelaksanaan ibadah berkenaan dengan harta, se
 
 * ### Lebih lanjut..
     * [mencari solusi bank syari'ah](https://almanhaj.or.id/2599-mencari-solusi-bank-syariah.html)
+    * [penerapan syirkah dengan bisnis bank](https://konsultasisyariah.com/33601-prinsip-syirkah-dan-penerapannya-dengan-bisnis-bank.html)
+    * [mengenal murabahah dan catatan penerapannya](https://pengusahamuslim.com/1073-mengenal-jual-beli-murabahah.html)
     * [reksadana syari'ah](https://pengusahamuslim.com/5256-reksadana-syariah-dalam-sorotan.html) 
     * [market share syari'ah](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1492-market-share-syariah)
     * [antara kapitalisme, (penerapan) ekonomi syariah yang ada, ...](http://geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1147-antara-kapitalisme-ekonomi-syariah-1-0-dan-ekonomi-syariah-2-0)
@@ -190,12 +192,14 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
             * [kebutuhan pokok](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics):
                 * [pertanian](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2007-ayat-ayat-petani), silahkan lihat [Materi Lengkap Islamic Agriculture](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1605-materi-lengkap-islamic-agriculture)
                 * peternakan: kambing, sapi, kuda, ikan, dll
-
+                * memakmurkan tanah-tanah kurang produktif dengan 
+                    * [muzara'ah dan musaqah](https://almanhaj.or.id/3270-menyewakan-tanah-pertanian.html)
+                    * pendanaan yg disyariatkan, cth:[bai salam bukan ijon](https://pengusahamuslim.com/1288-transaksi-ijon-dalam-pandangan-syariat.html)
+                    * _risk management_ yang baik, cth:[zakah for no poverty and zero hunger](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2016-zakah-for-no-poverty-and-zero-hunger-in-sdg-s)
+                
+            * kerajinan, bisa menggunakan [akad istishna'](https://pengusahamuslim.com/1156-akad-istishna.html)
             * [wellness](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1748-welcome-to-wellness-industry), seperti: [parfume](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1755-indikator-peradaban) 
-            * kerajinan
-            * dengan pendanaan yg disyariatkan, cth:[bai salam bukan ijon](https://pengusahamuslim.com/1288-transaksi-ijon-dalam-pandangan-syariat.html)
-            * dengan _risk management_ yang baik, cth:[zakah for no poverty and zero hunger](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2016-zakah-for-no-poverty-and-zero-hunger-in-sdg-s)
-
+            
         * industri besar (distributed) -jika perlu-, cth:[dme dari afteroil](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1975-dme-one-more-step-for-independent-energy) dan [pengelolaan sampah](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1969-from-common-failure-to-no-single-point-of-failure)
         * [guild](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1837-naqabah)
         * [syirkah "orang2 miskin"](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2003-syirkah-orang-orang-miskin)
@@ -212,9 +216,9 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
         * Mengkaji dan menerapkan konsep Hisbah (lembaga pengawas pasar) dan Muhtasib (pengawas pasar).
         * Mengidentifikasi barang-barang yang dibutuhkan masyarakat setempat dan mencari solusi pemenuhannya yang efektif.
         * Mencari sumber-sumber produksi yang efisien atas barang-barang yang dibutuhkan masyarakat.
-        * Optimalisasi space, facility, dan pemanfaatan _technology_ untuk manfaat maksimal.
+        * Optimalisasi _space, facility,_ dan pemanfaatan _technology_ untuk manfaat maksimal.
         * Menjalin hubungan kelembagaan dengan instansi-instansi dan organisasi-organisasi yang kemungkinan akan ikut terkait dan dapat membantu pengembangan pasar kedepan.
-        * Identifikasi potensi sustainable growth dari pasar.
+        * Identifikasi potensi _sustainable growth_ dari pasar.
 
     * Memanfaatkan _Suuq Baldah_ maupun platform lain dari internet untuk jangkauan yang lebih luas
     * Menginisialisasi gerakan-gerakan untuk memajukan ekonomi _ummat_ dan memerangi penjajah, cth: syirkah seluruh jama'ah masjid tanpa terkecuali dalam market swalayan modern local
@@ -234,6 +238,7 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
    * koordinasi dan saling mengingatkan jika terjadi salah praktik
    * bisa dengan membuat group chat untuk aliansi masjid-masjid yang juga berusaha menerapkan sistem ini.
    * namun untuk mashlahat yang lebih besar kami usulkan platform independent "project-book" dikembangkan gaya open-source namun lisensinya dijaga disponsori aliansi BMT.
+   * Open-source: mudahnya, yang source code programnya di-_publish_, punya komunitas yang mensupport, menerima kontribusi dari siapapun dalam bentuk kritik, saran, perbaikan dan pengembangan source code programnya, mengacu pada yang didefinisikan dalam lisensi, orang lain bisa memodifikasi sendiri, mendistribusikan maupun mengomersialkan hasil modifikasi
 
 * Ketika distributed system ini meluas dan menguat maka perlu dibentuk aliansi yang bisa disupport teknologi:
    * untuk ta'aawun alal birr wat taqwaa, cth: aliansi masjid se-kecamatan, se-kota, se-provinsi, se-negara
@@ -243,8 +248,7 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
 * Aliansi ini bila perlu berbentuk syirkah 'inan / syirkah mufawadhah.
 
 * ### Berdaya dalam teknologi
-
-* Open-source: mudahnya, yang source code programnya dipublish, biasanya menerima kontribusi dari siapapun dalam bentuk kritik, saran, memperbaiki dan mengembangkan source code programnya, bisa dikembangkan sendiri dan digunakan untuk komersil mengacu pada yang didefinisikan dalam lisensi
+ 
 * Platform untuk memudahkan _management_ Masjid, BMT dan Guild (distributed) dan bisa di-integrasikan
 * Platform yang menggantikan atau menggabungkan fungsionalitas: Facebook, Instagram, Medium, Github
    * Sebutlah untuk sekarang namanya "project-book"  
@@ -266,9 +270,12 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
    * Sebutlah untuk sekarang namanya _"Suuq baldah"_
    * Ketika ekonomi _ummat_ sejahtera bertransaksi lebih dari sekedar jual beli namun ada nilai ibadah, dakwah dan ukhuwwah disana.
    * User mencari barang yang dibutuhkan(barang-jadi maupun bahan mentah) dari [user(penjual) sekitar lingkungannya](http://geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1323-setiap-kerumuman-adalah-pasar-ii): jama'ah masjidnya, jika tidak ditemukan naik ke jama'ah aliansi masjid, aliansi ditingkat berikutnya dst.
-   * Platform juga bisa dimanfaatkan oleh produsen untuk mengembangkan _distribution channel_ yang _efficient_, dengan para user(penjual) -yang tertarik-.
    * Platform mengedukasi dan meminta komitmen dari seluruh user untuk menerapkan jual-beli yang tidak menyelisihi syariah.
-   * Cashflow, Customer, Product, Order Management
+   * Platform juga bisa dimanfaatkan oleh produsen untuk:
+      * Mengembangkan _distribution channel_ yang _efficient_, dengan para user(penjual) -yang tertarik-.
+      * Cashflow, Customer, Product, Order Management
+      * Give away barang-barang yang terbengkalai namun bermanfaat untuk orang lain
+      * Mengumumkan barang temuan
 
 * Platform database -account user, data apapun-:
     * Sebutlah untuk sekarang namanya "Open Book"
