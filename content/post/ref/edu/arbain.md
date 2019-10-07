@@ -10,7 +10,7 @@ categories: []
 date: 2019-08-26T14:04:52+07:00
 lastmod: 2019-08-26T14:04:52+07:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -86,4 +86,8 @@ Sesungguhnya cabang-cabang masalah fiqih itu hanya dapat dikuasai dengan kaidah-
 
 1. Bagi kita umat Islam, pencapaian sukses usaha ini juga menjadi penting sebagaimana hadits dari Amru bin Ash : "Rasulullah shallallahu 'alaihi wasallam mengutus seseorang kepadaku agar mengatakan, "Bawalah pakaian dan senjatamu, kemudian temuilah aku." Maka aku pun datang menemui beliau, sementara beliau sedang berwudlu. Beliau kemudian memandangiku dengan serius dan mengangguk-anggukkan (kepalanya). Beliau lalu bersabda: "Aku ingin mengutusmu berperang bersama sepasukan prajurit. Semoga Allah menyelamatkanmu, memberikan ghanimah dan dan aku berharap engkau mendapat harta yang baik." Saya berkata, "Wahai Rasulullah, saya tidaklah memeluk Islam lantaran ingin mendapatkan harta, akan tetapi saya memeluk Islam karena kecintaanku terhadap Islam dan berharap bisa bersama Rasulullah shallallahu 'alaihi wasallam." Maka beliau bersabda: "Wahai Amru, sebaik-baik harta adalah harta yang dimiliki oleh hamba yang Shalih." (HR. Ahmad).
 
-1. “Kalimat hikmah (perkataan yang baik/bijaksana) adalah senjatanya orang mukmin, dimanapun ia mendapatkannya maka dia lebih berhak untuk mengambilnya” (HR. Tirmidzi/Ibnu Majjah)
+1. “Kalimat hikmah (perkataan yang baik/bijaksana) adalah senjatanya orang mukmin, dimanapun ia mendapatkannya maka dia lebih berhak untuk mengambilnya” (HR. Tirmidzi/Ibnu Majjah) dhoif
+
+قال عبد الله بن عباس ان للحسنة ضياء في الوجه ونورا في القلب وسعة في الرزق وقوة في البدن ومحبة في قلوب الخلق وإن للسيئة سوادا في الوجه وظلمة في القبر والقلب ووهنا في البدن ونقصا في الرزق وبغضة في قلوب الخلق
+
+

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Baldah Project Steps"
+title: "Tentative Steps"
 subtitle: "one step at a time"
 summary: "langkah-langkah realisasi"
 authors: [admin]

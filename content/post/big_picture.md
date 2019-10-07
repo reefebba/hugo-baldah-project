@@ -40,7 +40,7 @@ Mengherankan jika manusia ingin hidup bahagia, sejahtera dan selamat dunia akhir
 
 Karena lemahnya iman, sedikitnya ilmu, terpecahnya-kekuatan, tanpa sistem yang membantu mengorganisir, sekaranglah kita terperangkap dalam jeratan jaring-jaring orang _dzhalim_ yang tidak tahu, maupun para penjajah yang rakus.
 
-Kami yang fakir ini ingin berkontribusi (dengan keilmuan dan pengalaman kami yang terbatas) membangun ekosistem yang bersih untuk berhijrah dari kajahiliyahan, dan [sebagai bentuk perang terhadap kemungkaran yang karena lemahnya kita, sedang bergerak menjajah kita](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/1364-launching-tawaf-untuk-kebangkitan-umat)
+Kami yang fakir ini ingin berkontribusi (dengan keilmuan dan pengalaman kami yang terbatas) membangun ekosistem yang bersih untuk berhijrah dari kajahiliyahan, dan sebagai bentuk perang terhadap kemungkaran yang karena lemahnya kita, sedang bergerak menjajah kita
 
 Sistem ini berasal dari telaah kami dari berbagai sumber(pikiran, tulisan, obrolan, kajian saudara-saudara kita), dengan inspirasi terbesar dari [geraidinar.com](http://www.geraidinar.com)
 
@@ -58,7 +58,7 @@ Islam=> Maqoshidu syariah
 BMT:[uang, modal]; 
 Guild:[ilmu => bayarkan patent sesuai manfaat => openlicense, sda, pasar];
 The Cave in forms(apartment, cluster, virtual) => generasi asset X liability
-pemerintahan/managemnt/sekretariat, politik/komunikasi international , pendidikan&kesehatan&budaya, ekonomi&perdagangan, hukum pidana, bendahara negara , majlis-syura(MPR)
+pemerintahan/managemnt/sekretariat, politik/komunikasi international , pendidikan&kesehatan&budaya, ekonomi&perdagangan, hukum pidana, bendahara negara, majlis-syura(MPR)
 
 # Baldah Foundation
 
@@ -124,7 +124,7 @@ Pusat peradaban, pembenahan iman, penyempurnaan akhlaq
 
 * ### Ta'lim
 
-    * #### [Kuttaab](http://www.geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/1363-generasi-gemilang-yang-semakin-dekat): Anak-anak | SD
+    * #### Kuttaab: Anak-anak | SD
         * Dasar - dasar keimanan
         * Adab & akhlaq
         * Membaca dan menghafal Al-Quran
@@ -189,35 +189,10 @@ Instrumen penting dalam memudahkan pelaksanaan ibadah berkenaan dengan harta, se
          * menabung dinar dan dirham, cth: [untuk biaya haji](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/780-alhamdulillah-ongkos-naik-haji-turun)
 
     * Menggali dan menyebarkan konsep ekonomi islam dan bersiap untuk bersaing di era fintech   
-    * Dimulai sebagai lembaga lokal [yang siap berjama'ah](http://www.geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/1338-kerumunan-bukan-jama-ah), begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas dibawah.
+    * Dimulai sebagai lembaga lokal yang siap berjama'ah, begitu tercipta banyak di berbagai tempat bisa di-integrasikan dengan cara yang akan dibahas dibawah.
 
 * ### Lebih lanjut..
-    * [market share syari'ah](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1492-market-share-syariah)
-    * [antara kapitalisme, (penerapan) ekonomi syariah yang ada, ...](http://geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1147-antara-kapitalisme-ekonomi-syariah-1-0-dan-ekonomi-syariah-2-0)
-    * [ekonomi syariah 2.0 after cap 1-4.0](http://www.geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1139-ekonomi-syariah-2-0)
-    * [uang yg mengusir pemiliknya](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1869-uang-yang-mengusir-pemiliknya)
-    * [3 in 1 solusi bebas riba](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1847-3-in-1-solusi-bebas-riba)
-    * [invesment box](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/83-gd-articles/investasi/648-investment-box-dimana-penempatan-investasi-anda)
-    * [negri tanpa hutang](http://www.geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1193-negeri-tanpa-hutang)
-    * [sistem pemiskinan](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/639-menghindar-dari-proses-pemiskinan-jabariyah-bagaimana)
-    * [pindah kuadran?](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/638-kecerdasan-financial-islami-bukan-pindah-kwadran-tetapi-merubuhkan-tembok-kwadran)
-    * [berguru ekonomi ke amerika?](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1520-guru-berdiri-murid-berlari)
-    * [Pinjam + Kafil di BMT](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/242-bila-terpaksa-harus-berhutang-kemana)
-    * [bmt to power syirkah, prediksi karena hutang](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1038-the-new-depression-bagaimana-kita-bisa-menghindarinya)
-    * [liquidity, solvency, competency](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/606-penyakit-financial-kambuhan-ketika-liquidity-menyaru-solvency-dan-competency)
-    * [3 kebutuhan, ideas](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1881-wong-telu)
-    * [barter network, 5 challenges, du-hope](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1133-barter-modern-5-masalah-yang-perlu-diatasi)
-    * [barter, point dinar](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1127-hidup-tanpa-uang)
-    * [dinar dirham for transaction](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/85-gd-articles/syariah/371-dengan-syariah-emas-dunia-akan-bisa-87-kali-lebih-makmur)
-    * [timbangan](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/86-gd-articles/ekonomi-makro/1152-kembalinya-timbangan-yang-hilang)
-    * [jual-beli property pakai dinar](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1880-keadilan-ekonomi-bukan-zero-sum-game)
-    * [grainomy](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1871-grainomy)
-    * [putaran, tawaf](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/1341-stabilitas-dalam-putaran)
-    * [Blockcain transform economy, TEDtalk](https://www.ted.com/talks/bettina_warburg_how_the_blockchain_will_radically_transform_the_economy#t-885287)
-    * [How Bitcoin works? cryptocurrency](https://youtu.be/bBC-nXj3Ng4)
-    * [food tracing](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1960-blockchain-initiative-for-agriculture)
-    * [contoh app blockchain](https://www.coindesk.com/7-cool-decentralized-apps-built-ethereum)
-
+    
 ## **Guild** (TO BE FIXED!)
 Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1929-impact-economy) and efficient_ untuk menyiapkan dan mengolah resource manusia dan alam menyesuaikan pasar yang sehat
 
@@ -304,18 +279,9 @@ Instrumen _[impactful](http://www.geraidinar.com/using-joomla/extensions/compone
         * industri [kecil](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/649-small-is-the-new-big) kebutuhan sehari-hari:
             * [kebutuhan pokok](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1996-define-economics):
                 * pangan:
-                    * [abasa diet](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1736-abasa-diet)
-                    * [makanan dan berkah kehidupan](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1553-lelaki-dan-benang-kusut)
-                    * [tanam apa yg dimakan](http://www.geraidinar.com/index.php/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1319-tanam-apa-makan-apa)
-                    * [veg & fruit, 101salads](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1685-peluang-2016-dari-buah-dan-buah-sampai-kota-peradaban)
-                    * [against food 2.0, minyak dll](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1514-food-2-0-untuk-semua)
-                    * [non-GMO food](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1526-peluang-amal-di-industri-tahu-dan-tempe)
-                    * [research makanan](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1512-in-search-of-new-food)
-                    * [hindar fitnah](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1370-menghindari-fitnah-pangan-dan-air)
-                    * [fitnah rasa](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/84-gd-articles/umum/1382-fitnah-rasa)
-                    * [microbes and food](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1733-marry-with-microbes-upaya-untuk-tetap-sehat)
+                    * 
 
-                * [pertanian](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/2007-ayat-ayat-petani), silahkan lihat 
+                * pertanian, silahkan lihat 
                     
                     * [Materi Lengkap Islamic Agriculture](http://geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1605-materi-lengkap-islamic-agriculture)
 
@@ -409,7 +375,7 @@ graph TD;
         * Diakses oleh platform-platform baldah-project(OAuth2) tanpa menyimpannya
         * Berasaskan transparency meminta persetujuan user untuk tiap data yang boleh di-_consume_ oleh platform lain(baldah-project ataupun selainnya) tanpa menyimpannya
 
-    * Sebagai pusat penyimpanan data yang [reliable dan auditable](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1973-blockchain-may-save-life) untuk maslahat umum.
+    * Sebagai pusat penyimpanan data yang [reliable dan auditable](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1973-blockchain-may-save-life) untuk maslahat umum, cth: ketika disinergikan dengan berbagai pihak untuk [food tracing](http://www.geraidinar.com/using-joomla/extensions/components/content-component/article-categories/81-gd-articles/entrepreneurship/1960-blockchain-initiative-for-agriculture).
     * [22 Companies Leveraging Blockchain for Identity Management and Authentication](https://gomedici.com/22-companies-leveraging-blockchain-for-identity-management-and-authentication/)
 
 ### BMT
@@ -451,8 +417,9 @@ graph TD;
    * User tidak membuat status melainkan project.
    * Project ada yang public dan ada yang private untuk independent team
    * Dalam project user bisa membuat:
-      *  artikel tentang ide atau karyanya seperti Medium, 
-      *  story seperti fb dan ig yang merupakan dokumentasi aksinya sesuai artikel yang ia tulis
+      * artikel tentang ide atau karyanya seperti Medium, 
+      * story seperti fb dan ig yang merupakan dokumentasi aksinya sesuai artikel yang ia tulis
+      * manage post ke social media lainnya
 
    * User bisa 
       * browse users dan projects dan follow users atau project
