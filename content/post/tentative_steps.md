@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Baldah Project Steps"
+title: "Tentative Steps"
 subtitle: "one step at a time"
 summary: "langkah-langkah realisasi"
 authors: [admin]
@@ -32,7 +32,7 @@ Yang bisa dilakukan 6 bulan kedepan:
 ## **Masjid**
 * Memakmurkan masjid setempat
 * Belajar aqidah, adab, quran, hadits, fiqh, siroh dan tarikh, b. arab
-* Sebarkan konsep baldah project untuk validasi
+* Validasi konsep baldah project 
 
 ## **BMT**
 * Merancang fintech dengan _aqd syar'i_
@@ -41,13 +41,13 @@ Yang bisa dilakukan 6 bulan kedepan:
 	* Fiqh Muamalat
 	* Keuangan dan _business_
 	* Legalitas
-	* _Technology_ penunjang (_blockchain_)
+	* _Technology_ penunjang (DLT/_blockchain_)
 
 ## **Guild**
 * Latih skill yang dimiliki
 * Mentoring: share skill yang dimiliki
 * Mulai coba bersyirkah
-* Bangun _team_ untuk simulasi seluruh rancangan
+* Bangun _team_ untuk diskusi dan simulasi seluruh rancangan
 
 ## **Project Book**
 Memanfatkan blog ini sebagai prototype journal:
@@ -64,6 +64,7 @@ Wacana platform kedepan (Konsep):
 * Jual normal (_local marketplace platform_)
 * Jual barang tak terpakai dengan harga miring
 * _Give Away (Hibah)_ barang tak terpakai
+* Mengumumkan barang temuan
 
 ## **_Al-Amtsilah_ Series**
 * Serial cerita perumpamaan
